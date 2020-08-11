@@ -1,6 +1,0 @@
----
-layout: default
-img: 4.jpg
-alt: image-alt
-author: Ho Lee (Grade 6th)
----
