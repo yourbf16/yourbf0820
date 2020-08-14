@@ -2,5 +2,5 @@
 layout: default
 img: 1.jpg
 alt: image-alt
-author: Class View 1
+author: Class View
 ---
