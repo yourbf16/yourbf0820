@@ -26,8 +26,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-  - scope:
-      path: "shows"
-      type: "posts"
-    values:
-      permalink: ""
