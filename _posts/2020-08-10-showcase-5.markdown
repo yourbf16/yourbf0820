@@ -2,5 +2,5 @@
 layout: default
 img: 5.jpg
 alt: image-alt
-author: Class View 4
+author: Adult Class
 ---
