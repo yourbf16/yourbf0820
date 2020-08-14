@@ -1,6 +1,0 @@
----
-layout: default
-img: 5.jpg
-alt: image-alt
-author: Sean Choi (Grade 5th)
----

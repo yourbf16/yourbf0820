@@ -1,6 +1,0 @@
----
-layout: default
-img: 4.jpg
-alt: image-alt
-author: Peter Chang (Grade 2nd)
----
