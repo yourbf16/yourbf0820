@@ -2,5 +2,5 @@
 layout: default
 img: 6.jpg
 alt: image-alt
-author: Alex Chung (Grade pre-school)
+author: Class View 5
 ---
