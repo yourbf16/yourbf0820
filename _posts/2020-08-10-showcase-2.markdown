@@ -2,5 +2,5 @@
 layout: default
 img: 2.jpg
 alt: image-alt
-author: Jane Schmo (Grade 1)
+author: Class View 2
 ---
