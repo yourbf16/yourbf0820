@@ -1,6 +1,0 @@
----
-layout: default
-img: 3.jpg
-alt: image-alt
-author: Joe Schmo (Grade 5)
----
