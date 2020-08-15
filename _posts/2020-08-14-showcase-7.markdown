@@ -2,5 +2,5 @@
 layout: default
 img: 7.jpg
 alt: image-alt
-author: Art Show
+author: Summer Camp
 ---
