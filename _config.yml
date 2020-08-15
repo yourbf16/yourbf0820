@@ -28,6 +28,6 @@ defaults:
       permalink: ""
 
 #logo on top-left corner
-#title-img: assets/images/logo_mw.png
+title-img: assets/images/logo_mw.png
 
 avatar: "assets/images/logo_mb.png"
