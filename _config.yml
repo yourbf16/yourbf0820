@@ -1,7 +1,7 @@
 title:            Studio M - Start Your Art Career Here!
-email:             your-email@example.com
-description:
-author:
+email:             artewham@gmail.com
+description: Art Studio M Website
+author: artewham
 
 plugins:
   - jekyll-seo-tag
