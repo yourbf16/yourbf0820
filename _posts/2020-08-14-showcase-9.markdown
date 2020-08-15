@@ -2,5 +2,5 @@
 layout: default
 img: 9.jpg
 alt: image-alt
-author: Summer Camp
+author: Class Work
 ---
