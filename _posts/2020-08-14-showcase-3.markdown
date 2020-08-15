@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ymk.jpg
+img: 3.jpg
 alt: image-alt
 author: Art Show
 ---
