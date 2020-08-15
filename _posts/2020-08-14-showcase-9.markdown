@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 7.jpg
+img: 9.jpg
 alt: image-alt
 author: Class Work
 ---
