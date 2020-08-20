@@ -1,0 +1,6 @@
+---
+layout: default
+img: 11.jpg
+alt: image-alt
+author: Adult Class
+---

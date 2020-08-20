@@ -1,0 +1,33 @@
+title:            Studio M - Start Your Art Career Here!
+email:             artewham@gmail.com
+description: Art Studio M Website
+author: artewham
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+  - jekyll-remote-theme
+
+exclude:
+  - LICENSE
+  - README.md
+  - fresh.gif
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
+
+#logo on top-left corner
+title-img: assets/images/logo_mw.png
+
+avatar: "assets/images/logo_mb.png"
