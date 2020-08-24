@@ -1,7 +1,7 @@
 <!-- Portfolio Section -->
 <section id="portfolio">
   <div class="container-fluid p-0">
-    #<div class="row no-gutters">
+    <div class="row no-gutters">
       {% for post in site.posts %}
       <div class="col-lg-4 col-sm-6">
         <a class="portfolio-box" href="assets/images/portfolio/fullsize/{{ post.img }}">
@@ -17,6 +17,23 @@
         </a>
       </div>
       {% endfor %}
-    #</div>
+    </div>
+    <div class="row no-gutters">
+      {% for post in site.posts %}
+      <div class="col-lg-4 col-sm-6">
+        <a class="portfolio-box" href="assets/images/portfolio/fullsize/{{ post.img }}">
+          <img class="img-fluid" src="assets/images/portfolio/thumbnails/{{ post.img }}" alt="">
+          <div class="portfolio-box-caption">
+            <div class="project-category text-white-50">
+              Studio M
+            </div>
+            <div class="project-name">
+              {{ post.author }}
+            </div>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </section>
