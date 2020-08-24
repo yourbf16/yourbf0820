@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 5j.jpg
+img: 5.jpg
 alt: image-alt
 author: Award-Winning Work
 ---
